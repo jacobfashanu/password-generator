@@ -44,3 +44,9 @@ button:nth-of-type(2)  {
 p {
     display: inline;
 }
+
+#numlabel:hover, #symlabel:hover, #numcheckbox, #symbolcheckbox {
+    cursor: pointer;
+}
+
+/* label */
