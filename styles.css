@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#output {
+    display: block;
+    height: 50px;
+    width: 100%;
+    outline: none;
+    font-size: 1.25rem;
+}
+
+main {
+    font-family: 'Instrument Serif', serif;
+    font-size: 1.5rem;
+}
+
+button:nth-of-type(1)  {
+    display: inline;
+    width: 49%;
+}
+
+button:nth-of-type(2)  {
+    /* display: inline; */
+    width: 49%;
+} 
+
+p {
+    display: inline;
+}
