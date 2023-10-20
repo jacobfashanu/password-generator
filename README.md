@@ -1,7 +1,17 @@
-# password-generator
+Live Site URL: [https://jacobf-password-generator.netlify.app/](https://jacobf-password-generator.netlify.app/)
 
-#Click the generate button to have a new password generated
+### Screenshot
 
-Live link: [https://jacobf-password-generator.netlify.app/](https://jacobf-password-generator.netlify.app/)
-=======
+![](./passwordgen-screenshot.png)
 
+
+### Built with
+
+- HTML
+- CSS
+- JS
+
+### Author
+
+- Linkedin - [Jacob Fashanu](https://www.linkedin.com/in/jacob-fashanu/)
+- Personal site - [jacobfashanu.com](https://jacobfashanu.com/)
